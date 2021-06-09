@@ -31,6 +31,11 @@ Biblioteca para el procesamiento de imágenes. Para la intalación de esta bibli
 
 `conda install -c menpo opencv`
 
+### Gensim
+Biblioteca para el trabajo con Doc2Vec. Para la intalación ejecutar el comando:
+
+`conda install gensim` 
+
 ## Ejemplos
 
 ### 1. Detección de elementos
@@ -39,4 +44,8 @@ En este notebook se implementa un ejemplo de detección de objetos haciendo uso 
 
 ## 2. Extracción de *features* imágenes
 
-En este noteook se implementa un ejemplo de extraccion de **features** de alto nivel de una imagen mediante el uso de CNN, usando las implementaciones disponibles en keras
+En este noteook se implementa un ejemplo de extraccion de **features** de alto nivel de una imagen mediante el uso de CNN, usando las implementaciones disponibles en keras.
+
+## 3. Doc2Vec
+
+En este ejemplo se muesrta como obtener features de alto nivel para datos textuales.
