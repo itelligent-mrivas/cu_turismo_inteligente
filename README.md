@@ -36,3 +36,7 @@ Biblioteca para el procesamiento de imágenes. Para la intalación de esta bibli
 ### 1. Detección de elementos
 
 En este notebook se implementa un ejemplo de detección de objetos haciendo uso de YoloV3.
+
+## 2. Extracción de *features* imágenes
+
+En este noteook se implementa un ejemplo de extraccion de **features** de alto nivel de una imagen mediante el uso de CNN, usando las implementaciones disponibles en keras
